@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=My Rad Plasma Aurora
+Comment=A really cool window decoration that I made for me :3
+
+X-KDE-PluginInfo-Name=MyRadPlasmaAurora
+X-KDE-PluginInfo-Version=0.0.1
+X-KDE-PluginInfo-Author=Lilith Cybi
+X-KDE-PluginInfo-Email=jmeasterday@comcast.net
+X-KDE-PluginInfo-License=GPL v3.0
+
+Type=Application
+X-KDE-PluginInfo-EnabledByDefault=true
